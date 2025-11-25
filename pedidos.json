@@ -1,0 +1,483 @@
+[
+  {
+    "id": 1763582850654,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 3,
+        "uid": "chuteiras-3",
+        "nome": "Chuteira Nike Phantom",
+        "imagem": "produtos/chuteira3.webp",
+        "preco": 449.9,
+        "tamanho": "41",
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "uid": "chuteiras-4",
+        "nome": "Chuteira Nike mercurial superfly 7",
+        "imagem": "produtos/chuteira4.jpg",
+        "preco": 299.9,
+        "tamanho": "39",
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "uid": "chuteiras-6",
+        "nome": "Chuteira Nike React Gato",
+        "imagem": "produtos/chuteira6.jpg",
+        "preco": 199.9,
+        "tamanho": "37",
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "uid": "chuteiras-1",
+        "nome": "Chuteira Nike Mercurial",
+        "imagem": "produtos/chuteira1.webp",
+        "preco": 349.9,
+        "tamanho": "38",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 1299.6,
+    "comprovante": null,
+    "status": "aprovado",
+    "data": "2025-11-19T20:07:30.654Z"
+  },
+  {
+    "id": 1763587059155,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 3,
+        "uid": "chuteiras-3",
+        "nome": "Chuteira Nike Phantom",
+        "imagem": "produtos/chuteira3.webp",
+        "preco": 449.9,
+        "tamanho": "41",
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "uid": "chuteiras-4",
+        "nome": "Chuteira Nike mercurial superfly 7",
+        "imagem": "produtos/chuteira4.jpg",
+        "preco": 299.9,
+        "tamanho": "39",
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "uid": "chuteiras-6",
+        "nome": "Chuteira Nike React Gato",
+        "imagem": "produtos/chuteira6.jpg",
+        "preco": 199.9,
+        "tamanho": "37",
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "uid": "chuteiras-1",
+        "nome": "Chuteira Nike Mercurial",
+        "imagem": "produtos/chuteira1.webp",
+        "preco": 349.9,
+        "tamanho": "38",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 1299.6,
+    "comprovante": null,
+    "status": "aprovado",
+    "data": "2025-11-19T21:17:39.155Z"
+  },
+  {
+    "id": 1763588215633,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 4,
+        "uid": "chuteiras-4",
+        "nome": "Chuteira Nike mercurial superfly 7",
+        "imagem": "produtos/chuteira4.jpg",
+        "preco": 299.9,
+        "tamanho": "39",
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "uid": "chuteiras-6",
+        "nome": "Chuteira Nike React Gato",
+        "imagem": "produtos/chuteira6.jpg",
+        "preco": 199.9,
+        "tamanho": "37",
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "uid": "chuteiras-1",
+        "nome": "Chuteira Nike Mercurial",
+        "imagem": "produtos/chuteira1.webp",
+        "preco": 349.9,
+        "tamanho": "38",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 849.6999999999999,
+    "comprovante": null,
+    "status": "aprovado",
+    "data": "2025-11-19T21:36:55.633Z"
+  },
+  {
+    "id": 1763588493658,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 1,
+        "uid": "chuteiras-1",
+        "nome": "Chuteira Nike Mercurial",
+        "imagem": "produtos/chuteira1.webp",
+        "preco": 349.9,
+        "tamanho": "38",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 349.9,
+    "comprovante": null,
+    "status": "rejeitado",
+    "data": "2025-11-19T21:41:33.658Z"
+  },
+  {
+    "id": 1763643967813,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 1,
+        "uid": "luvas-1",
+        "nome": "Luva Poker Altered",
+        "imagem": "produtos/luva1.webp",
+        "preco": 349.9,
+        "tamanho": "9",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 349.9,
+    "comprovante": null,
+    "status": "rejeitado",
+    "data": "2025-11-20T13:06:07.813Z"
+  },
+  {
+    "id": 1763645500034,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 5,
+        "nome": "Bola de Futebol Campo Adidas Euro 24",
+        "imagem": "produtos/bola5.webp",
+        "preco": 119.9,
+        "tamanho": "Único",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 119.9,
+    "status": "rejeitado",
+    "data": "2025-11-20T13:31:40.034Z"
+  },
+  {
+    "id": 1763646449474,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 4,
+        "nome": "Camisa Seleção Brasileira 22/23",
+        "imagem": "produtos/camisa4.webp",
+        "preco": 349.9,
+        "tamanho": "M",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 349.9,
+    "status": "rejeitado",
+    "data": "2025-11-20T13:47:29.474Z"
+  },
+  {
+    "id": 1763647867565,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 6,
+        "nome": "Caneleira Penalty Matis",
+        "imagem": "produtos/caneleira6.webp",
+        "preco": 54.9,
+        "tamanho": "Único",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 54.9,
+    "status": "rejeitado",
+    "data": "2025-11-20T14:11:07.565Z"
+  },
+  {
+    "id": 1763649056648,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 5,
+        "nome": "Luva Poker Dominator",
+        "imagem": "produtos/luva5.webp",
+        "preco": 299.9,
+        "tamanho": "10",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 299.9,
+    "status": "aprovado",
+    "data": "2025-11-20T14:30:56.648Z"
+  },
+  {
+    "id": 1763650182615,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 6,
+        "nome": "Meião Nike Classic Football Dri-FIT",
+        "imagem": "produtos/meiao6.webp",
+        "preco": 109.9,
+        "tamanho": "Único",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 109.9,
+    "status": "aprovado",
+    "data": "2025-11-20T14:49:42.615Z"
+  },
+  {
+    "id": 1763651133094,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Camisa Corinthians 21/22",
+        "imagem": "produtos/camisa1.avif",
+        "preco": 349.9,
+        "tamanho": "M",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 349.9,
+    "status": "aprovado",
+    "data": "2025-11-20T15:05:33.094Z"
+  },
+  {
+    "id": 1763653103467,
+    "cliente": {
+      "username": "teste",
+      "email": "teste@gmail.com",
+      "password": "12345678"
+    },
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Caneleira Adidas Tiro",
+        "imagem": "produtos/caneleira1.webp",
+        "preco": 79.9,
+        "tamanho": "Único",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 79.9,
+    "status": "aprovado",
+    "data": "2025-11-20T15:38:23.467Z"
+  },
+  {
+    "id": 1763851698923,
+    "cliente": {
+      "id": 3,
+      "name": "teste três",
+      "email": "teste3@gmail.com",
+      "telefone": "11971314886",
+      "dataNascimento": "2000-01-01",
+      "time": null,
+      "foto": null,
+      "pontos": 0
+    },
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Chuteira Nike Mercurial",
+        "imagem": "produtos/chuteira1.webp",
+        "preco": 349.9,
+        "tamanho": "39",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 349.9,
+    "status": "aprovado",
+    "data": "2025-11-22T22:48:18.923Z"
+  },
+  {
+    "id": 1763855625579,
+    "cliente": {
+      "id": 3,
+      "name": "teste três",
+      "email": "teste3@gmail.com",
+      "telefone": "11971314886",
+      "dataNascimento": "2000-01-01",
+      "time": null,
+      "foto": null,
+      "pontos": 0
+    },
+    "itens": [
+      {
+        "id": 3,
+        "nome": "Chuteira Nike Phantom",
+        "imagem": "produtos/chuteira3.webp",
+        "preco": 449.9,
+        "tamanho": "41",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 449.9,
+    "status": "aguardando",
+    "data": "2025-11-22T23:53:45.579Z"
+  },
+  {
+    "id": 1763856287469,
+    "cliente": {
+      "id": 3,
+      "name": "teste três",
+      "email": "teste3@gmail.com",
+      "telefone": "11971314886",
+      "dataNascimento": "2000-01-01",
+      "time": null,
+      "foto": null,
+      "pontos": 0
+    },
+    "itens": [
+      {
+        "id": 4,
+        "nome": "Chuteira Nike mercurial superfly 7",
+        "imagem": "produtos/chuteira4.jpg",
+        "preco": 299.9,
+        "tamanho": "41",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 299.9,
+    "status": "aguardando",
+    "data": "2025-11-23T00:04:47.469Z"
+  },
+  {
+    "id": 1763856845145,
+    "cliente": {
+      "id": 3,
+      "name": "teste três",
+      "email": "teste3@gmail.com",
+      "telefone": "11971314886",
+      "dataNascimento": "2000-01-01",
+      "time": null,
+      "foto": null,
+      "pontos": 0
+    },
+    "itens": [
+      {
+        "id": 4,
+        "nome": "Chuteira Nike mercurial superfly 7",
+        "imagem": "produtos/chuteira4.jpg",
+        "preco": 299.9,
+        "tamanho": "41",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 299.9,
+    "status": "aguardando",
+    "data": "2025-11-23T00:14:05.145Z"
+  },
+  {
+    "id": 1763857093612,
+    "cliente": {
+      "id": 3,
+      "name": "teste três",
+      "email": "teste3@gmail.com",
+      "telefone": "11971314886",
+      "dataNascimento": "2000-01-01",
+      "time": null,
+      "foto": null,
+      "pontos": 0
+    },
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Luva Poker Altered",
+        "imagem": "produtos/luva1.webp",
+        "preco": 349.9,
+        "tamanho": "10",
+        "quantity": 1
+      }
+    ],
+    "metodo": "pix",
+    "total": 349.9,
+    "status": "aguardando",
+    "data": "2025-11-23T00:18:13.612Z"
+  }
+]
