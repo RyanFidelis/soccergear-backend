@@ -15,7 +15,7 @@ const User = sequelize.define('User', {
   email: {
     type: DataTypes.STRING,
     allowNull: false,
-    unique: true, // E-mail continua ÚNICO
+    unique: true,
     validate: { isEmail: true },
   },
   password: {
@@ -25,9 +25,12 @@ const User = sequelize.define('User', {
   telefone: {
     type: DataTypes.STRING,
     allowNull: true,
-    // NOTA: Não colocamos 'unique: true' aqui, então o banco aceita duplicatas
   },
   dataNascimento: {
+    type: DataTypes.STRING,
+    allowNull: true,
+  },
+  endereco: {
     type: DataTypes.STRING,
     allowNull: true,
   },
