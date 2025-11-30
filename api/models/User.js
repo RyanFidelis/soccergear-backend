@@ -30,10 +30,6 @@ const User = sequelize.define('User', {
     type: DataTypes.STRING,
     allowNull: true,
   },
-  endereco: {
-    type: DataTypes.STRING,
-    allowNull: true,
-  },
   time: {
     type: DataTypes.STRING,
     allowNull: true,
